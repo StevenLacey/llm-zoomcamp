@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": "00001",
+    "created_at": "2025-06-01T12:00:00Z",
+    "persona": "steady_believer",
+    "view": "christian",
+    "step": 2,
+    "step_in_progress": true
+  },
+  {
+    "user_id": "00002",
+    "created_at": "2025-06-01T12:05:00Z",
+    "persona": "trust_builder",
+    "view": "atheist",
+    "step": 2,
+    "step_in_progress": true
+  },
+  {
+    "user_id": "00003",
+    "created_at": "2025-06-01T12:10:00Z",
+    "persona": "gentle_seeker",
+    "view": "agnostic",
+    "step": 2,
+    "step_in_progress": true
+  }
+]
