@@ -1,0 +1,25 @@
+{
+  "user_id": "abc123",
+  "current_profile": {
+    "view": "christian",
+    "openness_level": "high",
+    "higher_power_defined": true,
+    "persona": "steady_believer"
+  },
+  "history": [
+    {
+      "timestamp": "2025-06-01",
+      "view": "agnostic",
+      "openness_level": "medium",
+      "higher_power_defined": false,
+      "persona": "gentle_seeker"
+    },
+    {
+      "timestamp": "2025-06-10",
+      "view": "christian",
+      "openness_level": "high",
+      "higher_power_defined": true,
+      "persona": "steady_believer"
+    }
+  ]
+}
