@@ -38,5 +38,13 @@
     "view": "christian",
     "step": null,
     "step_in_progress": false
+  },
+  {
+    "user_id": "00006",
+    "created_at": "2025-06-11T20:53:48.928579",
+    "persona": "spiritual_explorer",
+    "view": "christian",
+    "step": null,
+    "step_in_progress": false
   }
 ]
