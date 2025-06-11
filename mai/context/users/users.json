@@ -22,5 +22,13 @@
     "view": "agnostic",
     "step": 2,
     "step_in_progress": true
+  },
+  {
+    "user_id": "00004",
+    "created_at": "2025-06-11T19:15:38.210758",
+    "persona": "spiritual_explorer",
+    "view": "unknown",
+    "step": null,
+    "step_in_progress": false
   }
 ]
