@@ -112,5 +112,23 @@
         "persona": "spiritual_explorer"
       }
     ]
+  },
+  {
+    "user_id": "00005",
+    "current_profile": {
+      "view": "christian",
+      "openness_level": "high",
+      "higher_power_defined": false,
+      "persona": "spiritual_explorer"
+    },
+    "history": [
+      {
+        "timestamp": "2025-06-11",
+        "view": "christian",
+        "openness_level": "high",
+        "higher_power_defined": false,
+        "persona": "spiritual_explorer"
+      }
+    ]
   }
 ]
