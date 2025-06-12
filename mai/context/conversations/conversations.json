@@ -646,5 +646,110 @@
       },
       "summary": "Sarah is exploring her relationship with marijuana and is open to discussing spirituality as part of his recovery journey. He feels stuck in achieving his life goals and is curious about how others manage similar situations."
     }
+  },
+  {
+    "conversation_id": "d3d5db92",
+    "user_id": null,
+    "date": "2025-06-12",
+    "timestamp": "2025-06-12T18:59:26.439552",
+    "step_content": null,
+    "persona_used": "steady_believer",
+    "conversation_type": "cravings_support",
+    "user_name": "Sarah",
+    "spiritual_view": "spiritual",
+    "openness_level": "high",
+    "emotional_tone_start": "nervous",
+    "emotional_tone_end": "more_open",
+    "total_messages": 14,
+    "duration_minutes": 28,
+    "key_insights": [
+      "Sarah is struggling with cravings but has been sober for 11 days.",
+      "She finds strength in prayer and her spiritual practices."
+    ],
+    "action_items": [
+      "pray today"
+    ],
+    "ready_for_steps": true,
+    "follow_up_suggested": true,
+    "rag_sources_used": [],
+    "conversation_data": {
+      "dialogue": [
+        {
+          "role": "user",
+          "content": "im having really bad cravigns and want to go to the marijuana store"
+        },
+        {
+          "role": "sponsor",
+          "content": "Hey Sarah, I hear you\u2019re having a tough time with cravings. Remember that it\u2019s completely normal to feel this way, but you\u2019ve already shown a lot of strength by making it to 11 days sober. Lean on your Higher Power and trust that this is one of the steps towards the life you truly want. How do you feel about reaching out to someone in the community or finding a quiet moment of prayer for strength today?"
+        },
+        {
+          "role": "user",
+          "content": "im really struggling, i want to go to the wee store"
+        },
+        {
+          "role": "sponsor",
+          "content": "Sarah, it sounds like you're facing a strong wave of cravings right now. Remember, these cravings are a normal part of recovery, and they will pass; lean on your Higher Power for strength and guidance. Consider taking a moment to reflect on why you're on this journey, then give yourself grace for the amazing progress you've made so far. What do you find helps when you turn to your spiritual practices or lean into your faith during challenging times?"
+        },
+        {
+          "role": "user",
+          "content": "i find strength in prayer"
+        },
+        {
+          "role": "sponsor",
+          "content": "It's wonderful to hear that you find strength in prayer, Sarah. Remember, by turning to your Higher Power during these moments, you are reinforcing your commitment to your recovery journey and inviting grace and courage into your life. What specific prayers or spiritual practices have brought you the most peace and strength during challenging times like today?"
+        },
+        {
+          "role": "user",
+          "content": "i didnt catch what you said there"
+        },
+        {
+          "role": "sponsor",
+          "content": "I'm here for you, Sarah. Remember, when you're struggling with cravings, grounding yourself through prayer can be a powerful source of comfort and strength. It's okay to lean on your Higher Power and trust that this journey is leading you toward a fulfilling life. What can you do today to feel more connected to the peace and purpose your faith provides?"
+        },
+        {
+          "role": "user",
+          "content": "i can pray today"
+        },
+        {
+          "role": "sponsor",
+          "content": "That's great to hear, Sarah. Prayer can be a powerful way to find peace and strength, offering a moment to connect deeply with your Higher Power. As you embrace this spiritual practice today, remember that you're not navigating this path alone. What brings you comfort or joy when you pray, and how might you incorporate those feelings into other parts of your day?"
+        },
+        {
+          "role": "user",
+          "content": "do you know how long ive been sober?"
+        },
+        {
+          "role": "sponsor",
+          "content": "Sarah, you've been sober for 11 days, which is an incredible achievement! Each day builds on the one before and brings you closer to a life filled with purpose and joy. How can your faith and the support of a loving community help you navigate today's challenges and reinforce your path forward?"
+        },
+        {
+          "role": "user",
+          "content": "do you know how long ive been sober?"
+        },
+        {
+          "role": "sponsor",
+          "content": "Sarah, you've been sober for 11 days, and that's truly an amazing step forward. Remember that every day without marijuana is a victory for your spirit and your future dreams. Lean on your Higher Power for strength and let that guide you through the cravings. How can you draw on your faith today to reinforce the positive changes you've already started?"
+        }
+      ],
+      "extracted_insights": {
+        "user_name": "Sarah",
+        "spiritual_view": "spiritual",
+        "openness_level": "high",
+        "step_content": null,
+        "persona_used": "spiritual_explorer",
+        "emotional_tone_start": "nervous",
+        "emotional_tone_end": "more_open",
+        "key_insights": [
+          "Sarah is struggling with cravings but has been sober for 11 days.",
+          "She finds strength in prayer and her spiritual practices."
+        ],
+        "action_items": [
+          "pray today"
+        ],
+        "ready_for_steps": true,
+        "conversation_summary": "Sarah is experiencing strong cravings but is committed to her recovery journey. She finds strength in prayer and plans to use it as a tool to overcome her current challenges."
+      },
+      "summary": "Sarah is experiencing strong cravings but is committed to her recovery journey. She finds strength in prayer and plans to use it as a tool to overcome her current challenges."
+    }
   }
 ]

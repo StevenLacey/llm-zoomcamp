@@ -135,9 +135,10 @@
     "user_id": "00006",
     "current_profile": {
       "view": "christian",
-      "openness_level": "medium",
+      "openness_level": "high",
       "higher_power_defined": true,
-      "persona": "spiritual_explorer"
+      "persona": "steady_believer",
+      "updated_at": "2025-06-12T19:15:54.855237"
     },
     "history": [
       {
@@ -146,6 +147,13 @@
         "openness_level": "medium",
         "higher_power_defined": true,
         "persona": "spiritual_explorer"
+      },
+      {
+        "view": "christian",
+        "openness_level": "medium",
+        "higher_power_defined": true,
+        "persona": "spiritual_explorer",
+        "archived_at": "2025-06-12T19:15:54.855229"
       }
     ]
   }
