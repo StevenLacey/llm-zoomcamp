@@ -1,6 +1,9 @@
 [
   {
     "user_id": "00001",
+    "user_name": "JohnDoe",
+    "first_name": "John",
+    "last_name": "Doe",
     "created_at": "2025-06-01T12:00:00Z",
     "persona": "steady_believer",
     "view": "christian",
@@ -9,6 +12,9 @@
   },
   {
     "user_id": "00002",
+    "user_name": "JaneSmith",
+    "first_name": "Jane",
+    "last_name": "Smith",
     "created_at": "2025-06-01T12:05:00Z",
     "persona": "trust_builder",
     "view": "atheist",
@@ -17,6 +23,9 @@
   },
   {
     "user_id": "00003",
+    "user_name": "AlexJohnson",
+    "first_name": "Alex",
+    "last_name": "Johnson",
     "created_at": "2025-06-01T12:10:00Z",
     "persona": "gentle_seeker",
     "view": "agnostic",
@@ -25,6 +34,9 @@
   },
   {
     "user_id": "00004",
+    "user_name": "EmilyDavis",
+    "first_name": "Emily",
+    "last_name": "Davis",
     "created_at": "2025-06-11T19:15:38.210758",
     "persona": "spiritual_explorer",
     "view": "unknown",
@@ -33,6 +45,9 @@
   },
   {
     "user_id": "00005",
+    "user_name": "MichaelBrown",
+    "first_name": "Michael",
+    "last_name": "Brown",
     "created_at": "2025-06-11T20:37:48.761045",
     "persona": "spiritual_explorer",
     "view": "christian",
@@ -41,6 +56,9 @@
   },
   {
     "user_id": "00006",
+    "user_name": "SarahWilson",
+    "first_name": "Sarah",
+    "last_name": "Wilson",
     "created_at": "2025-06-11T20:53:48.928579",
     "persona": "spiritual_explorer",
     "view": "christian",

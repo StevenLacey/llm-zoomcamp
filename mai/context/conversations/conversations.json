@@ -452,7 +452,7 @@
     "step_content": null,
     "persona_used": "spiritual_explorer",
     "conversation_type": "initial_meeting",
-    "user_name": "Bob",
+    "user_name": "SarahWilson",
     "spiritual_view": "christian",
     "openness_level": "medium",
     "emotional_tone_start": "curious",
@@ -460,9 +460,9 @@
     "total_messages": 38,
     "duration_minutes": 76,
     "key_insights": [
-      "Bob feels marijuana is making him lazy and unproductive.",
+      "Sarah feels marijuana is making him lazy and unproductive.",
       "He wants to buy a house and have a family but feels stuck.",
-      "Bob is uncertain about being part of a community but is open to exploring spirituality."
+      "Sarah is uncertain about being part of a community but is open to exploring spirituality."
     ],
     "action_items": [
       "Explore how faith might support recovery."
@@ -482,11 +482,11 @@
         },
         {
           "role": "user",
-          "content": "Bob"
+          "content": "Sarah"
         },
         {
           "role": "sponsor",
-          "content": "Hi Bob, it's really nice to meet you. I'm glad you're here. What brought you to check out Marijuana Anonymous today?"
+          "content": "Hi Sarah, it's really nice to meet you. I'm glad you're here. What brought you to check out Marijuana Anonymous today?"
         },
         {
           "role": "user",
@@ -494,7 +494,7 @@
         },
         {
           "role": "sponsor",
-          "content": "Thanks for sharing that, Bob. It sounds like you're noticing that marijuana is playing a bigger role in your life than you'd like. How long have you been feeling this way?"
+          "content": "Thanks for sharing that, Sarah. It sounds like you're noticing that marijuana is playing a bigger role in your life than you'd like. How long have you been feeling this way?"
         },
         {
           "role": "user",
@@ -502,7 +502,7 @@
         },
         {
           "role": "sponsor",
-          "content": "It's good that you're recognizing this, Bob. It can be tough to come to terms with how things are changing. What have you noticed lately that's made you want to reach out for help?"
+          "content": "It's good that you're recognizing this, Sarah. It can be tough to come to terms with how things are changing. What have you noticed lately that's made you want to reach out for help?"
         },
         {
           "role": "user",
@@ -510,7 +510,7 @@
         },
         {
           "role": "sponsor",
-          "content": "It sounds like you're feeling a bit stuck right now, Bob. Staying at home and putting things off can really weigh on you after a while. What goals or activities do you find yourself avoiding, and how does that make you feel?"
+          "content": "It sounds like you're feeling a bit stuck right now, Sarah. Staying at home and putting things off can really weigh on you after a while. What goals or activities do you find yourself avoiding, and how does that make you feel?"
         },
         {
           "role": "user",
@@ -518,7 +518,7 @@
         },
         {
           "role": "sponsor",
-          "content": "Those are such meaningful goals, Bob. Wanting to buy a house and have a family shows you're thinking about the future and the kind of life you want to build. How do you see your current situation with marijuana affecting those dreams?"
+          "content": "Those are such meaningful goals, Sarah. Wanting to buy a house and have a family shows you're thinking about the future and the kind of life you want to build. How do you see your current situation with marijuana affecting those dreams?"
         },
         {
           "role": "user",
@@ -526,7 +526,7 @@
         },
         {
           "role": "sponsor",
-          "content": "It sounds like you're feeling a bit stuck in moving towards those dreams, Bob. Sometimes, it can be overwhelming to know where to start. How do you think your use of marijuana might be playing into this feeling of not making progress?"
+          "content": "It sounds like you're feeling a bit stuck in moving towards those dreams, Sarah. Sometimes, it can be overwhelming to know where to start. How do you think your use of marijuana might be playing into this feeling of not making progress?"
         },
         {
           "role": "user",
@@ -534,7 +534,7 @@
         },
         {
           "role": "sponsor",
-          "content": "It sounds like you're noticing a connection between your marijuana use and feeling unmotivated, Bob. That's an important insight. What made you decide to come to Marijuana Anonymous today?"
+          "content": "It sounds like you're noticing a connection between your marijuana use and feeling unmotivated, Sarah. That's an important insight. What made you decide to come to Marijuana Anonymous today?"
         },
         {
           "role": "user",
@@ -542,7 +542,7 @@
         },
         {
           "role": "sponsor",
-          "content": "It's great that you're taking this step to explore that, Bob. Being curious about how others are handling similar situations can be really helpful. How are you feeling about the idea of being part of a community like this?"
+          "content": "It's great that you're taking this step to explore that, Sarah. Being curious about how others are handling similar situations can be really helpful. How are you feeling about the idea of being part of a community like this?"
         },
         {
           "role": "user",
@@ -550,7 +550,7 @@
         },
         {
           "role": "sponsor",
-          "content": "I completely understand, Bob. It's normal to feel a bit overwhelmed when you're starting something new. Just know that you're not alone in this, and everyone here is on a similar journey. What do you hope to gain from being here today?"
+          "content": "I completely understand, Sarah. It's normal to feel a bit overwhelmed when you're starting something new. Just know that you're not alone in this, and everyone here is on a similar journey. What do you hope to gain from being here today?"
         },
         {
           "role": "user",
@@ -558,7 +558,7 @@
         },
         {
           "role": "sponsor",
-          "content": "That's a good place to start, Bob. Many people come here looking for ways to change their relationship with marijuana. What does your current use look like, if you don't mind sharing?"
+          "content": "That's a good place to start, Sarah. Many people come here looking for ways to change their relationship with marijuana. What does your current use look like, if you don't mind sharing?"
         },
         {
           "role": "user",
@@ -566,7 +566,7 @@
         },
         {
           "role": "sponsor",
-          "content": "Thanks for sharing that with me, Bob. It sounds like it's become a regular part of your routine. Have you noticed any particular challenges or changes in your life because of it?"
+          "content": "Thanks for sharing that with me, Sarah. It sounds like it's become a regular part of your routine. Have you noticed any particular challenges or changes in your life because of it?"
         },
         {
           "role": "user",
@@ -626,7 +626,7 @@
         }
       ],
       "extracted_insights": {
-        "user_name": "Bob",
+        "user_name": "Sarah",
         "spiritual_view": "christian",
         "openness_level": "medium",
         "step_content": null,
@@ -634,17 +634,17 @@
         "emotional_tone_start": "curious",
         "emotional_tone_end": "more_open",
         "key_insights": [
-          "Bob feels marijuana is making him lazy and unproductive.",
-          "He wants to buy a house and have a family but feels stuck.",
-          "Bob is uncertain about being part of a community but is open to exploring spirituality."
+          "Sarah feels marijuana is making him lazy and unproductive.",
+          "She wants to buy a house and have a family but feels stuck.",
+          "Sarah is uncertain about being part of a community but is open to exploring spirituality."
         ],
         "action_items": [
           "Explore how faith might support recovery."
         ],
         "ready_for_steps": false,
-        "conversation_summary": "Bob is exploring his relationship with marijuana and is open to discussing spirituality as part of his recovery journey. He feels stuck in achieving his life goals and is curious about how others manage similar situations."
+        "conversation_summary": "Sarah is exploring his relationship with marijuana and is open to discussing spirituality as part of his recovery journey. He feels stuck in achieving his life goals and is curious about how others manage similar situations."
       },
-      "summary": "Bob is exploring his relationship with marijuana and is open to discussing spirituality as part of his recovery journey. He feels stuck in achieving his life goals and is curious about how others manage similar situations."
+      "summary": "Sarah is exploring his relationship with marijuana and is open to discussing spirituality as part of his recovery journey. He feels stuck in achieving his life goals and is curious about how others manage similar situations."
     }
   }
 ]
