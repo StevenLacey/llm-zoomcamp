@@ -8,7 +8,8 @@
     "persona": "steady_believer",
     "view": "christian",
     "step": 2,
-    "step_in_progress": true
+    "step_in_progress": true,
+    "first_sober_date": "2024-06-01"
   },
   {
     "user_id": "00002",
@@ -19,7 +20,8 @@
     "persona": "trust_builder",
     "view": "atheist",
     "step": 2,
-    "step_in_progress": true
+    "step_in_progress": true,
+    "first_sober_date": "2024-06-01"
   },
   {
     "user_id": "00003",
@@ -30,7 +32,8 @@
     "persona": "gentle_seeker",
     "view": "agnostic",
     "step": 2,
-    "step_in_progress": true
+    "step_in_progress": true,
+    "first_sober_date": "2024-06-01"
   },
   {
     "user_id": "00004",
@@ -41,7 +44,8 @@
     "persona": "spiritual_explorer",
     "view": "unknown",
     "step": null,
-    "step_in_progress": false
+    "step_in_progress": false,
+    "first_sober_date": "2024-06-01"
   },
   {
     "user_id": "00005",
@@ -52,7 +56,8 @@
     "persona": "spiritual_explorer",
     "view": "christian",
     "step": null,
-    "step_in_progress": false
+    "step_in_progress": false,
+    "first_sober_date": "2024-06-01"
   },
   {
     "user_id": "00006",
@@ -60,9 +65,10 @@
     "first_name": "Sarah",
     "last_name": "Wilson",
     "created_at": "2025-06-11T20:53:48.928579",
-    "persona": "spiritual_explorer",
+    "persona": "steady_believer",
     "view": "christian",
     "step": null,
-    "step_in_progress": false
+    "step_in_progress": false,
+    "first_sober_date": "2025-06-01"
   }
 ]
