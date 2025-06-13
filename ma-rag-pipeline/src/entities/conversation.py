@@ -1,10 +1,8 @@
+import json
+import uuid
 from pathlib import Path
 from typing import List, Dict, Optional, Any
-import json
 from datetime import datetime
-import uuid
-
-CONVERSATIONS_PATH = Path("../../data/conversations.json")
 
 class Conversation:
     def __init__(
@@ -29,6 +27,7 @@ class Conversation:
         follow_up_suggested: Optional[bool] = None,
         rag_sources_used: Optional[List[Any]] = None,
         conversation_data: Optional[Dict[str, Any]] = None,
+        **kwargs
     ):
         self.conversation_id = conversation_id or str(uuid.uuid4())[:8]
         self.user_id = user_id
@@ -50,46 +49,42 @@ class Conversation:
         self.follow_up_suggested = follow_up_suggested
         self.rag_sources_used = rag_sources_used or []
         self.conversation_data = conversation_data or {}
+        # Store any extra fields (like conversation_summary)
+        for k, v in kwargs.items():
+            setattr(self, k, v)
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "Conversation":
         return cls(**data)
 
     def to_dict(self) -> Dict[str, Any]:
-        return self.__dict__
+        d = self.__dict__.copy()
+        return d
 
-def load_conversations(path: Path = CONVERSATIONS_PATH) -> List[Conversation]:
+def load_conversations(path: Path) -> List[Conversation]:
     if path.exists():
         with open(path, "r") as f:
             data = json.load(f)
-        return [Conversation.from_dict(d) for d in data if d]
+        # Only load dicts (skip empty or malformed entries)
+        return [Conversation.from_dict(d) for d in data if isinstance(d, dict) and d]
     return []
 
-def save_conversations(conversations: List[Conversation], path: Path = CONVERSATIONS_PATH):
+def append_conversation(conversation: Conversation, path: Path) -> None:
+    conversations = load_conversations(path)
+    conversations.append(conversation)
     with open(path, "w") as f:
         json.dump([c.to_dict() for c in conversations], f, indent=2)
 
-def append_conversation(convo: Conversation, path: Path = CONVERSATIONS_PATH):
-    conversations = load_conversations(path)
-    conversations.append(convo)
-    save_conversations(conversations, path)
-
-def get_conversations_by_user(user_id: str, path: Path = CONVERSATIONS_PATH) -> List[Conversation]:
-    conversations = load_conversations(path)
+def get_conversations_by_user(user_id: str, conversations: List[Conversation]) -> List[Conversation]:
+    """Return all conversations for a given user_id."""
     return [c for c in conversations if c.user_id == user_id]
 
-def get_recent_conversations(user_id: str, n: int = 3, path: Path = CONVERSATIONS_PATH) -> List[Conversation]:
-    user_convos = get_conversations_by_user(user_id, path)
-    user_convos = sorted(user_convos, key=lambda c: c.timestamp, reverse=True)
-    return user_convos[:n]
-
-# Example usage:
-if __name__ == "__main__":
-    # Load all conversations
-    convos = load_conversations()
-    print(f"Loaded {len(convos)} conversations.")
-
-    # Create and append a new conversation
-    new_convo = Conversation(user_id="00001", conversation_type="initial_meeting", user_name="Test User")
-    append_conversation(new_convo)
-    print("Appended new conversation.")
+def get_recent_conversations(conversations: List[Conversation], n: int = 5) -> List[Conversation]:
+    """Return the n most recent conversations, sorted by timestamp descending."""
+    # Assumes timestamp is ISO format
+    sorted_convos = sorted(
+        [c for c in conversations if c.timestamp],
+        key=lambda c: c.timestamp,
+        reverse=True
+    )
+    return sorted_convos[:n]
