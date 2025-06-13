@@ -1,0 +1,168 @@
+[
+  {
+    "user_id": "00001",
+    "current_profile": {
+      "view": "christian",
+      "openness_level": "high",
+      "higher_power_defined": true,
+      "persona": "steady_believer"
+    },
+    "history": [
+      {
+        "timestamp": "2025-06-01",
+        "view": "christian",
+        "openness_level": "high",
+        "higher_power_defined": true,
+        "persona": "steady_believer"
+      },
+      {
+        "timestamp": "2025-06-05",
+        "view": "christian",
+        "openness_level": "high",
+        "higher_power_defined": true,
+        "persona": "steady_believer"
+      },
+      {
+        "timestamp": "2025-06-12",
+        "view": "christian",
+        "openness_level": "high",
+        "higher_power_defined": true,
+        "persona": "steady_believer"
+      }
+    ]
+  },
+  {
+    "user_id": "00002",
+    "current_profile": {
+      "view": "atheist",
+      "openness_level": "low",
+      "higher_power_defined": false,
+      "persona": "trust_builder"
+    },
+    "history": [
+      {
+        "timestamp": "2025-06-01",
+        "view": "atheist",
+        "openness_level": "low",
+        "higher_power_defined": false,
+        "persona": "trust_builder"
+      },
+      {
+        "timestamp": "2025-06-06",
+        "view": "atheist",
+        "openness_level": "low",
+        "higher_power_defined": false,
+        "persona": "trust_builder"
+      },
+      {
+        "timestamp": "2025-06-11",
+        "view": "atheist",
+        "openness_level": "low",
+        "higher_power_defined": false,
+        "persona": "trust_builder"
+      }
+    ]
+  },
+  {
+    "user_id": "00003",
+    "current_profile": {
+      "view": "agnostic",
+      "openness_level": "medium",
+      "higher_power_defined": false,
+      "persona": "gentle_seeker"
+    },
+    "history": [
+      {
+        "timestamp": "2025-06-01",
+        "view": "agnostic",
+        "openness_level": "medium",
+        "higher_power_defined": false,
+        "persona": "gentle_seeker"
+      },
+      {
+        "timestamp": "2025-06-07",
+        "view": "agnostic",
+        "openness_level": "medium",
+        "higher_power_defined": false,
+        "persona": "gentle_seeker"
+      },
+      {
+        "timestamp": "2025-06-13",
+        "view": "agnostic",
+        "openness_level": "medium",
+        "higher_power_defined": false,
+        "persona": "gentle_seeker"
+      }
+    ]
+  },
+  {
+    "user_id": "00004",
+    "current_profile": {
+      "view": "unknown",
+      "openness_level": "medium",
+      "higher_power_defined": false,
+      "persona": "spiritual_explorer"
+    },
+    "history": [
+      {
+        "timestamp": "2025-06-11",
+        "view": "unknown",
+        "openness_level": "medium",
+        "higher_power_defined": false,
+        "persona": "spiritual_explorer"
+      }
+    ]
+  },
+  {
+    "user_id": "00005",
+    "current_profile": {
+      "view": "christian",
+      "openness_level": "high",
+      "higher_power_defined": false,
+      "persona": "spiritual_explorer"
+    },
+    "history": [
+      {
+        "timestamp": "2025-06-11",
+        "view": "christian",
+        "openness_level": "high",
+        "higher_power_defined": false,
+        "persona": "spiritual_explorer"
+      }
+    ]
+  },
+  {
+    "user_id": "00006",
+    "current_profile": {
+      "view": "christian",
+      "openness_level": "medium",
+      "higher_power_defined": true,
+      "persona": "steady_believer",
+      "updated_at": "2025-06-13T09:01:27.886615"
+    },
+    "history": [
+      {
+        "timestamp": "2025-06-11",
+        "view": "christian",
+        "openness_level": "medium",
+        "higher_power_defined": true,
+        "persona": "spiritual_explorer"
+      },
+      {
+        "view": "christian",
+        "openness_level": "medium",
+        "higher_power_defined": true,
+        "persona": "spiritual_explorer",
+        "archived_at": "2025-06-12T19:15:54.855229"
+      },
+      {
+        "view": "christian",
+        "openness_level": "high",
+        "higher_power_defined": true,
+        "persona": "steady_believer",
+        "updated_at": "2025-06-12T19:15:54.855237",
+        "archived_at": "2025-06-13T09:01:27.886604"
+      }
+    ]
+  }
+]

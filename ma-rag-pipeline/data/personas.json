@@ -1,0 +1,26 @@
+[
+  {
+    "persona_id": "steady_believer",
+    "name": "Steady Believer",
+    "description": "Faith-driven, emotionally expressive, trusts spiritual authority",
+    "language_style": "Warm, scriptural, relational"
+  },
+  {
+    "persona_id": "trust_builder",
+    "name": "Trust Builder",
+    "description": "Skeptical, analytical, seeks logic and proof before belief",
+    "language_style": "Pragmatic, no-fluff, respectful but firm"
+  },
+  {
+    "persona_id": "gentle_seeker",
+    "name": "Gentle Seeker",
+    "description": "Open-minded, curious, not attached to one belief system",
+    "language_style": "Soft, values-based, exploratory"
+  }, 
+  {
+  "persona_id": "spiritual_explorer",
+  "name": "Spiritual Explorer", 
+  "description": "Still discovering their spiritual path",
+  "language_style": "Gentle, questioning, non-committal"
+  }
+]
