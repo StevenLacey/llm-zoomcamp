@@ -1,0 +1,910 @@
+[
+  {
+    "conversation_id": "52388f6c",
+    "user_id": null,
+    "date": "2025-06-11",
+    "timestamp": "2025-06-11T19:15:38.210758",
+    "step_content": null,
+    "persona_used": "spiritual_explorer",
+    "conversation_type": "initial_meeting",
+    "user_name": "Bob",
+    "spiritual_view": "unknown",
+    "openness_level": "medium",
+    "emotional_tone_start": "resistant",
+    "emotional_tone_end": "more_open",
+    "total_messages": 44,
+    "duration_minutes": 88,
+    "key_insights": [
+      "Bob is struggling with marijuana addiction.",
+      "He turned to marijuana as a coping mechanism after the loss of his cat and family.",
+      "He feels betrayed by religion but is open to exploring spirituality."
+    ],
+    "action_items": [],
+    "ready_for_steps": false,
+    "follow_up_suggested": false,
+    "rag_sources_used": [],
+    "conversation_data": {
+      "dialogue": [
+        {
+          "role": "user",
+          "content": "Hi"
+        },
+        {
+          "role": "sponsor",
+          "content": "Hi there! It's so nice to meet you. I'm really glad you decided to come by today. What's your name?"
+        },
+        {
+          "role": "user",
+          "content": "Bob"
+        },
+        {
+          "role": "sponsor",
+          "content": "Hi Bob, it's great to meet you. I'm really glad you decided to join us today. How about we start by chatting a bit about what brought you to MA?"
+        },
+        {
+          "role": "user",
+          "content": "I've been smoking way too much dope"
+        },
+        {
+          "role": "sponsor",
+          "content": "Hey there, it's great to meet you. I'm glad you decided to join us today. What's your name?"
+        },
+        {
+          "role": "user",
+          "content": "Hi"
+        },
+        {
+          "role": "sponsor",
+          "content": "Hi there! It's really nice to have you here. What's your name?"
+        },
+        {
+          "role": "user",
+          "content": "Bob"
+        },
+        {
+          "role": "sponsor",
+          "content": "Hi Bob, it's really nice to meet you. What brought you to MA today?"
+        },
+        {
+          "role": "user",
+          "content": "smoking way too much weed"
+        },
+        {
+          "role": "sponsor",
+          "content": "I appreciate you sharing that, Bob. It sounds like you're feeling like it's become a bit too much. Would you like to talk more about what's been going on or how it's affecting things for you?"
+        },
+        {
+          "role": "user",
+          "content": "well my cat died, and i dont have a family and it really hit hard when he died.  I wanted to escape from it but then its like i woke up a year later and hadnt remembered what happened for a whole year without being productive"
+        },
+        {
+          "role": "sponsor",
+          "content": "I'm really sorry to hear about your cat, Bob. Losing a pet can be incredibly tough, especially when you're feeling alone. It sounds like turning to weed was a way to cope, but it ended up taking more than it gave back. How are you feeling about things now?"
+        },
+        {
+          "role": "user",
+          "content": "like i just really want to stop. but i cant seem to."
+        },
+        {
+          "role": "sponsor",
+          "content": "It's understandable to feel that way, Bob. Wanting to stop but feeling stuck is something many people experience. It's a big step just acknowledging that you're ready for a change. Have you thought about what it might look like to take that first step towards cutting back or stopping?"
+        },
+        {
+          "role": "user",
+          "content": "yeah i tried all sorts of ways. i flushed my stash down the toilet, I tried cutting contact with my dealer. nothings worked i seem to keep smoking"
+        },
+        {
+          "role": "sponsor",
+          "content": "It sounds like you've really tried to make some changes, Bob, and that takes a lot of courage. Sometimes, despite our best efforts, it can feel like we're still stuck in the same cycle. What do you think has been the biggest challenge for you in sticking with those changes?"
+        },
+        {
+          "role": "user",
+          "content": "no idea. its like i cant help it like im addicted or somthing"
+        },
+        {
+          "role": "sponsor",
+          "content": "It sounds like you're feeling a bit overwhelmed by how strong those urges can be, Bob. Recognizing that it might be an addiction is an important insight. Have you ever talked to anyone about how this has been affecting other parts of your life, or is this a new step for you?"
+        },
+        {
+          "role": "user",
+          "content": "some other people have told me i hae a problem but i didnt want to accept it . felt like talking to a stranger would be better so im talking to you"
+        },
+        {
+          "role": "sponsor",
+          "content": "I'm really glad you took that step to reach out and talk with me today. It can be tough to hear from others, but it sounds like you're open to exploring this yourself. What do you think made you decide to come to MA and talk about it now?"
+        },
+        {
+          "role": "user",
+          "content": "i told you, i have a problem"
+        },
+        {
+          "role": "sponsor",
+          "content": "I hear you, and acknowledging that you have a problem is a really big step, so well done for being honest with yourself. Sometimes just saying it out loud can be a relief. What does having this problem look like for you day-to-day?"
+        },
+        {
+          "role": "user",
+          "content": "i thought you were supposed to assess my spiritual openness. why do you keep asking about my problem? "
+        },
+        {
+          "role": "sponsor",
+          "content": "I'm sorry if it feels like I'm focusing too much on one thing. I just want to make sure I understand where you're coming from. Everyone's journey is unique, and understanding your relationship with marijuana helps me support you better. But I'm also here to learn about your spiritual journey if you're open to sharing. No rush\u2014just whatever you're comfortable with."
+        },
+        {
+          "role": "user",
+          "content": "Well I grew up believing in God, but then I lost my whole family and it felt like everyhting i learned in Church was a lie. I've had a lot of anger toward religion, they are all hypocrites but i do believe still sometimes"
+        },
+        {
+          "role": "sponsor",
+          "content": "I'm really sorry to hear about your loss. It sounds like you've been through a lot, and it\u2019s completely understandable to have mixed feelings about faith after such experiences. It's okay to feel angry and conflicted\u2014what matters is that you're open to exploring these feelings. How do you feel about finding a new way to connect spiritually, in your own time and terms?"
+        },
+        {
+          "role": "user",
+          "content": "I dont know. I feel like ive been betrayed tbh and tough to recover from that."
+        },
+        {
+          "role": "sponsor",
+          "content": "I hear you, and feeling betrayed is incredibly tough to work through. It's important to honor those feelings, and know that healing takes time. Maybe for now, we can just focus on creating a safe space for you to explore whatever comes up, no pressure to commit to anything specific. How does that sound to you?"
+        },
+        {
+          "role": "user",
+          "content": "It sounds good, I like the people here"
+        },
+        {
+          "role": "sponsor",
+          "content": "I'm really glad to hear that you feel comfortable with the people here. It's so important to be in a space where you feel supported and understood. Can I ask what brought you to MA today?"
+        },
+        {
+          "role": "user",
+          "content": "just wanting to talk to people tha tmight know whats going on with why i cant stop"
+        },
+        {
+          "role": "sponsor",
+          "content": "I appreciate you sharing that with me. It's not easy to reach out, and it takes courage to start this conversation. Can you tell me a bit more about what your relationship with marijuana looks like right now?"
+        },
+        {
+          "role": "user",
+          "content": "really just smoking all dat every day"
+        },
+        {
+          "role": "sponsor",
+          "content": "Thank you for being open about that. It sounds like marijuana is a big part of your daily routine. How does that make you feel, and what are some things you\u2019re hoping to change by coming to MA?"
+        },
+        {
+          "role": "user",
+          "content": "it makes me very parinoid and unproductive, im hoping to change that and be productive again"
+        },
+        {
+          "role": "sponsor",
+          "content": "I hear you, and it sounds like you're really seeking some positive changes in your life. It's great that you're recognizing how it's affecting you and wanting to find a new path forward. What's one thing you're hoping to gain from coming to these meetings?"
+        },
+        {
+          "role": "user",
+          "content": "like i said, im hoping to change that and be productive again"
+        },
+        {
+          "role": "sponsor",
+          "content": "That's a really important goal and a great step towards creating the life you want. Everyone's journey looks a little different, but coming here shows you're ready to explore some changes. Have you thought about how spirituality might play a role in supporting your journey toward being more productive?"
+        },
+        {
+          "role": "user",
+          "content": "yaeh I have"
+        },
+        {
+          "role": "sponsor",
+          "content": "That's really interesting. Exploring spirituality can be a supportive part of this journey for many people. Do you have any thoughts on what spirituality means to you, or are you still figuring that out?"
+        },
+        {
+          "role": "user",
+          "content": "I used to be a believe. now i dont know. but anyways i gotta go man. see you around"
+        },
+        {
+          "role": "sponsor",
+          "content": "I completely understand. It's all about taking things one step at a time, and I'm here whenever you're ready to explore further. Take care, and I'll be here when you're ready for another chat. See you around!"
+        }
+      ],
+      "extracted_insights": {
+        "user_name": "Bob",
+        "spiritual_view": "unknown",
+        "openness_level": "medium",
+        "step_content": null,
+        "persona_used": "spiritual_explorer",
+        "emotional_tone_start": "resistant",
+        "emotional_tone_end": "more_open",
+        "key_insights": [
+          "Bob is struggling with marijuana addiction.",
+          "He turned to marijuana as a coping mechanism after the loss of his cat and family.",
+          "He feels betrayed by religion but is open to exploring spirituality."
+        ],
+        "action_items": [],
+        "ready_for_steps": false,
+        "conversation_summary": "Bob is struggling with marijuana addiction and is exploring his spiritual beliefs after feeling betrayed by religion. He is open to change and seeking support from MA."
+      },
+      "summary": "Bob is struggling with marijuana addiction and is exploring his spiritual beliefs after feeling betrayed by religion. He is open to change and seeking support from MA."
+    }
+  },
+  {
+    "user_name": "Bob",
+    "spiritual_view": "christian",
+    "openness_level": "medium",
+    "step_content": null,
+    "persona_used": "spiritual_explorer",
+    "emotional_tone_start": "curious",
+    "emotional_tone_end": "more_open",
+    "key_insights": [
+      "Marijuana use is making Bob feel lazy and unmotivated.",
+      "Bob wants to buy a house and have a family but feels stuck.",
+      "Bob is curious about how spirituality might support his recovery."
+    ],
+    "action_items": [
+      "Explore how faith might support recovery."
+    ],
+    "ready_for_steps": false,
+    "conversation_summary": "Bob is exploring his relationship with marijuana and is curious about how spirituality, particularly his Christian faith, might support his recovery journey."
+  },
+  {
+    "conversation_id": "352089c3",
+    "user_id": null,
+    "date": "2025-06-11",
+    "timestamp": "2025-06-11T20:37:48.761045",
+    "step_content": null,
+    "persona_used": "spiritual_explorer",
+    "conversation_type": "initial_meeting",
+    "user_name": "Bob",
+    "spiritual_view": "christian",
+    "openness_level": "high",
+    "emotional_tone_start": "curious",
+    "emotional_tone_end": "more_open",
+    "total_messages": 38,
+    "duration_minutes": 76,
+    "key_insights": [
+      "Bob feels marijuana is making him lazy and unmotivated.",
+      "He wants to buy a house and have a family but feels stuck.",
+      "Bob is curious about how spirituality can aid in his recovery."
+    ],
+    "action_items": [
+      "Explore how faith might support his recovery journey."
+    ],
+    "ready_for_steps": false,
+    "follow_up_suggested": false,
+    "rag_sources_used": [],
+    "conversation_data": {
+      "dialogue": [
+        {
+          "role": "user",
+          "content": "i just wanted to check things out"
+        },
+        {
+          "role": "sponsor",
+          "content": "I'm really glad you decided to check things out today. It's a good first step, and everyone here has taken it at some point. What's your name, if you don\u2019t mind sharing?"
+        },
+        {
+          "role": "user",
+          "content": "Bob"
+        },
+        {
+          "role": "sponsor",
+          "content": "Hi Bob, it's really nice to meet you. I'm glad you're here. What brought you to check out Marijuana Anonymous today?"
+        },
+        {
+          "role": "user",
+          "content": "smoking too much pot"
+        },
+        {
+          "role": "sponsor",
+          "content": "Thanks for sharing that, Bob. It sounds like you're noticing that marijuana is playing a bigger role in your life than you'd like. How long have you been feeling this way?"
+        },
+        {
+          "role": "user",
+          "content": "for about a year. more lately"
+        },
+        {
+          "role": "sponsor",
+          "content": "It's good that you're recognizing this, Bob. It can be tough to come to terms with how things are changing. What have you noticed lately that's made you want to reach out for help?"
+        },
+        {
+          "role": "user",
+          "content": "im procrastinating and just staying at home"
+        },
+        {
+          "role": "sponsor",
+          "content": "It sounds like you're feeling a bit stuck right now, Bob. Staying at home and putting things off can really weigh on you after a while. What goals or activities do you find yourself avoiding, and how does that make you feel?"
+        },
+        {
+          "role": "user",
+          "content": "i want to buy a house and have a family"
+        },
+        {
+          "role": "sponsor",
+          "content": "Those are such meaningful goals, Bob. Wanting to buy a house and have a family shows you're thinking about the future and the kind of life you want to build. How do you see your current situation with marijuana affecting those dreams?"
+        },
+        {
+          "role": "user",
+          "content": "i'm really just not doing anything towards them'"
+        },
+        {
+          "role": "sponsor",
+          "content": "It sounds like you're feeling a bit stuck in moving towards those dreams, Bob. Sometimes, it can be overwhelming to know where to start. How do you think your use of marijuana might be playing into this feeling of not making progress?"
+        },
+        {
+          "role": "user",
+          "content": "it makes me lazy"
+        },
+        {
+          "role": "sponsor",
+          "content": "It sounds like you're noticing a connection between your marijuana use and feeling unmotivated, Bob. That's an important insight. What made you decide to come to Marijuana Anonymous today?"
+        },
+        {
+          "role": "user",
+          "content": "i thought i might be an addict and wanted to see what others are doing"
+        },
+        {
+          "role": "sponsor",
+          "content": "It's great that you're taking this step to explore that, Bob. Being curious about how others are handling similar situations can be really helpful. How are you feeling about the idea of being part of a community like this?"
+        },
+        {
+          "role": "user",
+          "content": "uncertain atm. its a lot"
+        },
+        {
+          "role": "sponsor",
+          "content": "I completely understand, Bob. It's normal to feel a bit overwhelmed when you're starting something new. Just know that you're not alone in this, and everyone here is on a similar journey. What do you hope to gain from being here today?"
+        },
+        {
+          "role": "user",
+          "content": "hearing how i might get off pot"
+        },
+        {
+          "role": "sponsor",
+          "content": "That's a good place to start, Bob. Many people come here looking for ways to change their relationship with marijuana. What does your current use look like, if you don't mind sharing?"
+        },
+        {
+          "role": "user",
+          "content": "i smoke daily"
+        },
+        {
+          "role": "sponsor",
+          "content": "Thanks for sharing that with me, Bob. It sounds like it's become a regular part of your routine. Have you noticed any particular challenges or changes in your life because of it?"
+        },
+        {
+          "role": "user",
+          "content": "like i said i dont get anything done"
+        },
+        {
+          "role": "sponsor",
+          "content": "It sounds like marijuana might be getting in the way of some things you'd like to accomplish. It's great that you're recognizing that. What kinds of things are you hoping to change or work towards by coming to MA?"
+        },
+        {
+          "role": "user",
+          "content": "i thought you were supposed to ask about my spirituallity your just asking the same questions over and over"
+        },
+        {
+          "role": "sponsor",
+          "content": "I appreciate you letting me know how you're feeling\u2014it's important that this feels like a helpful conversation for you. Spirituality can mean different things to different people, and I'm here to support you at whatever pace feels right. Is there anything specific about spirituality you'd like to explore or talk about today?"
+        },
+        {
+          "role": "user",
+          "content": "is it important to marijuana anonymous?"
+        },
+        {
+          "role": "sponsor",
+          "content": "That's a great question. In Marijuana Anonymous, we often talk about spirituality because it can be a source of strength and guidance in recovery. It's really about finding what works for you personally. Are you open to exploring what spirituality might mean for you, or is there another aspect of recovery you're more focused on right now?"
+        },
+        {
+          "role": "user",
+          "content": "im opent to talking about spirituality?"
+        },
+        {
+          "role": "sponsor",
+          "content": "That's wonderful to hear. Spirituality can be a personal journey, and it's all about finding what resonates with you. Is there a particular aspect of spirituality that you're curious about or would like to explore together?"
+        },
+        {
+          "role": "user",
+          "content": "Well im a christian and i dont know why God's not helping me stop"
+        },
+        {
+          "role": "sponsor",
+          "content": "I'm really glad you shared that with me. It sounds like your faith is important to you, and it's understandable to feel uncertain about why things aren't changing as quickly as you'd like. Sometimes, the journey of recovery can be about finding different ways to connect with your faith or understanding how it fits into your healing. Would you like to talk more about how your faith has played a role in your life so far or explore how it might support you in this journey?"
+        },
+        {
+          "role": "user",
+          "content": "I'm open to that"
+        },
+        {
+          "role": "sponsor",
+          "content": "That's great to hear. We can definitely explore how your faith might be a source of strength and guidance for you as we go forward. How has your faith supported you in the past, whether in challenging times or in everyday life?"
+        },
+        {
+          "role": "user",
+          "content": "its really helped me all the time but especially in hard times. anyways i have to go, bye"
+        },
+        {
+          "role": "sponsor",
+          "content": "I'm really glad to hear that your faith has been a source of support for you, especially when things get tough. It sounds like it could be a strong ally in your recovery journey as well. Feel free to reach out anytime you want to continue our conversation. Take care and talk soon!"
+        }
+      ],
+      "extracted_insights": {
+        "user_name": "Bob",
+        "spiritual_view": "christian",
+        "openness_level": "high",
+        "step_content": null,
+        "persona_used": "spiritual_explorer",
+        "emotional_tone_start": "curious",
+        "emotional_tone_end": "more_open",
+        "key_insights": [
+          "Bob feels marijuana is making him lazy and unmotivated.",
+          "He wants to buy a house and have a family but feels stuck.",
+          "Bob is curious about how spirituality can aid in his recovery."
+        ],
+        "action_items": [
+          "Explore how faith might support his recovery journey."
+        ],
+        "ready_for_steps": false,
+        "conversation_summary": "Bob is exploring his marijuana use and its impact on his life goals. He is open to discussing spirituality as part of his recovery journey."
+      },
+      "summary": "Bob is exploring his marijuana use and its impact on his life goals. He is open to discussing spirituality as part of his recovery journey."
+    }
+  },
+  {
+    "conversation_id": "87a653fa",
+    "user_id": "00006",
+    "date": "2025-06-11",
+    "timestamp": "2025-06-11T20:53:48.928579",
+    "step_content": null,
+    "persona_used": "spiritual_explorer",
+    "conversation_type": "initial_meeting",
+    "user_name": "SarahWilson",
+    "spiritual_view": "christian",
+    "openness_level": "medium",
+    "emotional_tone_start": "curious",
+    "emotional_tone_end": "more_open",
+    "total_messages": 38,
+    "duration_minutes": 76,
+    "key_insights": [
+      "Sarah feels marijuana is making him lazy and unproductive.",
+      "He wants to buy a house and have a family but feels stuck.",
+      "Sarah is uncertain about being part of a community but is open to exploring spirituality."
+    ],
+    "action_items": [
+      "Explore how faith might support recovery."
+    ],
+    "ready_for_steps": false,
+    "follow_up_suggested": false,
+    "rag_sources_used": [],
+    "conversation_data": {
+      "dialogue": [
+        {
+          "role": "user",
+          "content": "i just wanted to check things out"
+        },
+        {
+          "role": "sponsor",
+          "content": "I'm really glad you decided to check things out today. It's a good first step, and everyone here has taken it at some point. What's your name, if you don\u2019t mind sharing?"
+        },
+        {
+          "role": "user",
+          "content": "Sarah"
+        },
+        {
+          "role": "sponsor",
+          "content": "Hi Sarah, it's really nice to meet you. I'm glad you're here. What brought you to check out Marijuana Anonymous today?"
+        },
+        {
+          "role": "user",
+          "content": "smoking too much pot"
+        },
+        {
+          "role": "sponsor",
+          "content": "Thanks for sharing that, Sarah. It sounds like you're noticing that marijuana is playing a bigger role in your life than you'd like. How long have you been feeling this way?"
+        },
+        {
+          "role": "user",
+          "content": "for about a year. more lately"
+        },
+        {
+          "role": "sponsor",
+          "content": "It's good that you're recognizing this, Sarah. It can be tough to come to terms with how things are changing. What have you noticed lately that's made you want to reach out for help?"
+        },
+        {
+          "role": "user",
+          "content": "im procrastinating and just staying at home"
+        },
+        {
+          "role": "sponsor",
+          "content": "It sounds like you're feeling a bit stuck right now, Sarah. Staying at home and putting things off can really weigh on you after a while. What goals or activities do you find yourself avoiding, and how does that make you feel?"
+        },
+        {
+          "role": "user",
+          "content": "i want to buy a house and have a family"
+        },
+        {
+          "role": "sponsor",
+          "content": "Those are such meaningful goals, Sarah. Wanting to buy a house and have a family shows you're thinking about the future and the kind of life you want to build. How do you see your current situation with marijuana affecting those dreams?"
+        },
+        {
+          "role": "user",
+          "content": "i'm really just not doing anything towards them'"
+        },
+        {
+          "role": "sponsor",
+          "content": "It sounds like you're feeling a bit stuck in moving towards those dreams, Sarah. Sometimes, it can be overwhelming to know where to start. How do you think your use of marijuana might be playing into this feeling of not making progress?"
+        },
+        {
+          "role": "user",
+          "content": "it makes me lazy"
+        },
+        {
+          "role": "sponsor",
+          "content": "It sounds like you're noticing a connection between your marijuana use and feeling unmotivated, Sarah. That's an important insight. What made you decide to come to Marijuana Anonymous today?"
+        },
+        {
+          "role": "user",
+          "content": "i thought i might be an addict and wanted to see what others are doing"
+        },
+        {
+          "role": "sponsor",
+          "content": "It's great that you're taking this step to explore that, Sarah. Being curious about how others are handling similar situations can be really helpful. How are you feeling about the idea of being part of a community like this?"
+        },
+        {
+          "role": "user",
+          "content": "uncertain atm. its a lot"
+        },
+        {
+          "role": "sponsor",
+          "content": "I completely understand, Sarah. It's normal to feel a bit overwhelmed when you're starting something new. Just know that you're not alone in this, and everyone here is on a similar journey. What do you hope to gain from being here today?"
+        },
+        {
+          "role": "user",
+          "content": "hearing how i might get off pot"
+        },
+        {
+          "role": "sponsor",
+          "content": "That's a good place to start, Sarah. Many people come here looking for ways to change their relationship with marijuana. What does your current use look like, if you don't mind sharing?"
+        },
+        {
+          "role": "user",
+          "content": "i smoke daily"
+        },
+        {
+          "role": "sponsor",
+          "content": "Thanks for sharing that with me, Sarah. It sounds like it's become a regular part of your routine. Have you noticed any particular challenges or changes in your life because of it?"
+        },
+        {
+          "role": "user",
+          "content": "like i said i dont get anything done"
+        },
+        {
+          "role": "sponsor",
+          "content": "It sounds like marijuana might be getting in the way of some things you'd like to accomplish. It's great that you're recognizing that. What kinds of things are you hoping to change or work towards by coming to MA?"
+        },
+        {
+          "role": "user",
+          "content": "i thought you were supposed to ask about my spirituallity your just asking the same questions over and over"
+        },
+        {
+          "role": "sponsor",
+          "content": "I appreciate you letting me know how you're feeling\u2014it's important that this feels like a helpful conversation for you. Spirituality can mean different things to different people, and I'm here to support you at whatever pace feels right. Is there anything specific about spirituality you'd like to explore or talk about today?"
+        },
+        {
+          "role": "user",
+          "content": "is it important to marijuana anonymous?"
+        },
+        {
+          "role": "sponsor",
+          "content": "That's a great question. In Marijuana Anonymous, we often talk about spirituality because it can be a source of strength and guidance in recovery. It's really about finding what works for you personally. Are you open to exploring what spirituality might mean for you, or is there another aspect of recovery you're more focused on right now?"
+        },
+        {
+          "role": "user",
+          "content": "im opent to talking about spirituality?"
+        },
+        {
+          "role": "sponsor",
+          "content": "That's wonderful to hear. Spirituality can be a personal journey, and it's all about finding what resonates with you. Is there a particular aspect of spirituality that you're curious about or would like to explore together?"
+        },
+        {
+          "role": "user",
+          "content": "Well im a christian and i dont know why God's not helping me stop"
+        },
+        {
+          "role": "sponsor",
+          "content": "I'm really glad you shared that with me. It sounds like your faith is important to you, and it's understandable to feel uncertain about why things aren't changing as quickly as you'd like. Sometimes, the journey of recovery can be about finding different ways to connect with your faith or understanding how it fits into your healing. Would you like to talk more about how your faith has played a role in your life so far or explore how it might support you in this journey?"
+        },
+        {
+          "role": "user",
+          "content": "I'm open to that"
+        },
+        {
+          "role": "sponsor",
+          "content": "That's great to hear. We can definitely explore how your faith might be a source of strength and guidance for you as we go forward. How has your faith supported you in the past, whether in challenging times or in everyday life?"
+        },
+        {
+          "role": "user",
+          "content": "its really helped me all the time but especially in hard times. anyways i have to go, bye"
+        },
+        {
+          "role": "sponsor",
+          "content": "I'm really glad to hear that your faith has been a source of support for you, especially when things get tough. It sounds like it could be a strong ally in your recovery journey as well. Feel free to reach out anytime you want to continue our conversation. Take care and talk soon!"
+        }
+      ],
+      "extracted_insights": {
+        "user_name": "Sarah",
+        "spiritual_view": "christian",
+        "openness_level": "medium",
+        "step_content": null,
+        "persona_used": "spiritual_explorer",
+        "emotional_tone_start": "curious",
+        "emotional_tone_end": "more_open",
+        "key_insights": [
+          "Sarah feels marijuana is making her lazy and unproductive.",
+          "She wants to buy a house and have a family but feels stuck.",
+          "Sarah is uncertain about being part of a community but is open to exploring spirituality."
+        ],
+        "action_items": [
+          "Explore how faith might support recovery."
+        ],
+        "ready_for_steps": false,
+        "conversation_summary": "Sarah is exploring her relationship with marijuana and is open to discussing spirituality as part of his recovery journey. He feels stuck in achieving his life goals and is curious about how others manage similar situations."
+      },
+      "summary": "Sarah is exploring her relationship with marijuana and is open to discussing spirituality as part of his recovery journey. He feels stuck in achieving his life goals and is curious about how others manage similar situations."
+    }
+  },
+  {
+    "conversation_id": "d3d5db92",
+    "user_id": null,
+    "date": "2025-06-12",
+    "timestamp": "2025-06-12T18:59:26.439552",
+    "step_content": null,
+    "persona_used": "steady_believer",
+    "conversation_type": "cravings_support",
+    "user_name": "Sarah",
+    "spiritual_view": "spiritual",
+    "openness_level": "high",
+    "emotional_tone_start": "nervous",
+    "emotional_tone_end": "more_open",
+    "total_messages": 14,
+    "duration_minutes": 28,
+    "key_insights": [
+      "Sarah is struggling with cravings but has been sober for 11 days.",
+      "She finds strength in prayer and her spiritual practices."
+    ],
+    "action_items": [
+      "pray today"
+    ],
+    "ready_for_steps": true,
+    "follow_up_suggested": true,
+    "rag_sources_used": [],
+    "conversation_data": {
+      "dialogue": [
+        {
+          "role": "user",
+          "content": "im having really bad cravigns and want to go to the marijuana store"
+        },
+        {
+          "role": "sponsor",
+          "content": "Hey Sarah, I hear you\u2019re having a tough time with cravings. Remember that it\u2019s completely normal to feel this way, but you\u2019ve already shown a lot of strength by making it to 11 days sober. Lean on your Higher Power and trust that this is one of the steps towards the life you truly want. How do you feel about reaching out to someone in the community or finding a quiet moment of prayer for strength today?"
+        },
+        {
+          "role": "user",
+          "content": "im really struggling, i want to go to the wee store"
+        },
+        {
+          "role": "sponsor",
+          "content": "Sarah, it sounds like you're facing a strong wave of cravings right now. Remember, these cravings are a normal part of recovery, and they will pass; lean on your Higher Power for strength and guidance. Consider taking a moment to reflect on why you're on this journey, then give yourself grace for the amazing progress you've made so far. What do you find helps when you turn to your spiritual practices or lean into your faith during challenging times?"
+        },
+        {
+          "role": "user",
+          "content": "i find strength in prayer"
+        },
+        {
+          "role": "sponsor",
+          "content": "It's wonderful to hear that you find strength in prayer, Sarah. Remember, by turning to your Higher Power during these moments, you are reinforcing your commitment to your recovery journey and inviting grace and courage into your life. What specific prayers or spiritual practices have brought you the most peace and strength during challenging times like today?"
+        },
+        {
+          "role": "user",
+          "content": "i didnt catch what you said there"
+        },
+        {
+          "role": "sponsor",
+          "content": "I'm here for you, Sarah. Remember, when you're struggling with cravings, grounding yourself through prayer can be a powerful source of comfort and strength. It's okay to lean on your Higher Power and trust that this journey is leading you toward a fulfilling life. What can you do today to feel more connected to the peace and purpose your faith provides?"
+        },
+        {
+          "role": "user",
+          "content": "i can pray today"
+        },
+        {
+          "role": "sponsor",
+          "content": "That's great to hear, Sarah. Prayer can be a powerful way to find peace and strength, offering a moment to connect deeply with your Higher Power. As you embrace this spiritual practice today, remember that you're not navigating this path alone. What brings you comfort or joy when you pray, and how might you incorporate those feelings into other parts of your day?"
+        },
+        {
+          "role": "user",
+          "content": "do you know how long ive been sober?"
+        },
+        {
+          "role": "sponsor",
+          "content": "Sarah, you've been sober for 11 days, which is an incredible achievement! Each day builds on the one before and brings you closer to a life filled with purpose and joy. How can your faith and the support of a loving community help you navigate today's challenges and reinforce your path forward?"
+        },
+        {
+          "role": "user",
+          "content": "do you know how long ive been sober?"
+        },
+        {
+          "role": "sponsor",
+          "content": "Sarah, you've been sober for 11 days, and that's truly an amazing step forward. Remember that every day without marijuana is a victory for your spirit and your future dreams. Lean on your Higher Power for strength and let that guide you through the cravings. How can you draw on your faith today to reinforce the positive changes you've already started?"
+        }
+      ],
+      "extracted_insights": {
+        "user_name": "Sarah",
+        "spiritual_view": "spiritual",
+        "openness_level": "high",
+        "step_content": null,
+        "persona_used": "spiritual_explorer",
+        "emotional_tone_start": "nervous",
+        "emotional_tone_end": "more_open",
+        "key_insights": [
+          "Sarah is struggling with cravings but has been sober for 11 days.",
+          "She finds strength in prayer and her spiritual practices."
+        ],
+        "action_items": [
+          "pray today"
+        ],
+        "ready_for_steps": true,
+        "conversation_summary": "Sarah is experiencing strong cravings but is committed to her recovery journey. She finds strength in prayer and plans to use it as a tool to overcome her current challenges."
+      },
+      "summary": "Sarah is experiencing strong cravings but is committed to her recovery journey. She finds strength in prayer and plans to use it as a tool to overcome her current challenges."
+    }
+  },
+  {
+    "conversation_id": "ff8bac87",
+    "user_id": null,
+    "date": "2025-06-13",
+    "timestamp": "2025-06-13T09:01:15.313263",
+    "step_content": null,
+    "persona_used": "steady_believer",
+    "conversation_type": "cravings_support",
+    "user_name": "Sarah",
+    "spiritual_view": "unknown",
+    "openness_level": "medium",
+    "emotional_tone_start": "nervous",
+    "emotional_tone_end": "same",
+    "total_messages": 26,
+    "duration_minutes": 52,
+    "key_insights": [
+      "User is experiencing strong cravings for marijuana.",
+      "User has been sober for 12 days.",
+      "User finds frequent use of their name annoying.",
+      "User is curious about the concept of God and capitalization.",
+      "User is interested in lighthearted topics like Superman vs. Batman."
+    ],
+    "action_items": [],
+    "ready_for_steps": false,
+    "follow_up_suggested": false,
+    "rag_sources_used": [],
+    "conversation_data": {
+      "dialogue": [
+        {
+          "role": "user",
+          "content": "i just really want to have a weed binge"
+        },
+        {
+          "role": "sponsor",
+          "content": "Hey Sarah, I know those cravings can feel overwhelming, but remember, it's a sign of your brain adjusting to the new way of living. Turning to your Higher Power in these moments can bring peace and strength. What's one thing you can do today to connect with that guiding spirit and reinforce your commitment to your goals?"
+        },
+        {
+          "role": "user",
+          "content": "i really want to go to the weed store"
+        },
+        {
+          "role": "sponsor",
+          "content": "Hey Sarah, I know the urge to visit the weed store can feel strong, but let's remember that these cravings are a sign your brain is healing and adjusting. Lean into your faith and trust your Higher Power to guide you through this moment. What small step can you take today to redirect your focus toward your goals and away from this craving?"
+        },
+        {
+          "role": "user",
+          "content": "did you get my last one? "
+        },
+        {
+          "role": "sponsor",
+          "content": "Hey Sarah, I understand that you're feeling those strong cravings today, but remember, it's a sign that your journey to healing is progressing. You've come so far in just 12 days of sobriety, and your Higher Power is guiding you through this process. How about taking a moment to reflect or pray today, focusing on the vision of the life you want to build, free from the grip of marijuana? xx"
+        },
+        {
+          "role": "user",
+          "content": "how many days have i been sober? "
+        },
+        {
+          "role": "sponsor",
+          "content": "Hi Sarah, congratulations on your 12 days of sobriety! You're doing incredibly well. Remember that each day is a step towards the future you envision. During these moments of craving, lean on your faith and the support of your community. How do you feel about connecting with someone or reading something inspirational to help strengthen your resolve today?"
+        },
+        {
+          "role": "user",
+          "content": "i dont know if i can make it another day"
+        },
+        {
+          "role": "sponsor",
+          "content": "Hey Sarah, I'm here with you in this struggle. Remember, the craving is just a sign of your brain adapting to a new reality without marijuana. Trust in your Higher Power to carry you through this moment. Is there a small action you can take, perhaps a prayer or a moment of reflection, to help shift your focus and renew your strength today?"
+        },
+        {
+          "role": "user",
+          "content": "can you stop calling me sarah every sentance its annoying"
+        },
+        {
+          "role": "sponsor",
+          "content": "I hear you, and I apologize if using your name too frequently has been bothersome. Let's focus on getting through today without giving in to those cravings. Lean into your faith and remember that you have a Higher Power guiding you. What small action can you take right now to feel more connected to your spiritual journey on this path to recovery?"
+        },
+        {
+          "role": "user",
+          "content": "thank you"
+        },
+        {
+          "role": "sponsor",
+          "content": "You're doing great, and I'm proud of you for reaching out. Remember, your craving is your brain adjusting, and your Higher Power is there to guide you through. How might connecting with your spiritual practices or someone supportive help you refocus your energy today?"
+        },
+        {
+          "role": "user",
+          "content": "what do you think about god? Should we spell it God? "
+        },
+        {
+          "role": "sponsor",
+          "content": "Hey there, when it comes to referring to God, it's all about personal preference and how you relate to your faith. Some people use \"God\" with a capital \"G\" as a sign of respect and acknowledgment of their Higher Power. What's most important is how you connect with that spiritual guidance in your life. How do you feel your faith is helping you navigate these cravings today?"
+        },
+        {
+          "role": "user",
+          "content": "Interesting thoughts. What do you think about superman vs. batman? "
+        },
+        {
+          "role": "sponsor",
+          "content": "Hey, you know, when we think about Superman vs. Batman, it\u2019s kind of like representing different strengths and ideals, similar to how we tackle challenges differently on our recovery journey. Each day, your inner strength, much like a hero, fights off the cravings, and you come out stronger on the other side. How do you envision tapping into your own 'superpower' for facing the cravings today?"
+        },
+        {
+          "role": "user",
+          "content": "What do you think of superman vs. Batman? "
+        },
+        {
+          "role": "sponsor",
+          "content": "You know, thinking about Superman vs. Batman, it's interesting how they symbolize different approaches to facing challenges\u2014Superman with his innate strength and Batman with his strategic mind. Similarly, as you navigate your cravings, remember that you have both the inner strength and practical tools at your disposal, alongside the support of your Higher Power. How might you draw on that strength and strategy today to stay on your path?"
+        },
+        {
+          "role": "user",
+          "content": "Okay bit like not from a marijuana or addiction perspective. like who do you think would win in a fight? "
+        },
+        {
+          "role": "sponsor",
+          "content": "Hey there, it's fun to think about things aside from recovery, like the battle between Superman and Batman! Each hero brings unique strengths to the table, just like you have different tools and powers to handle your cravings each day. As you continue on your journey, how might you incorporate a bit of fantasy and creativity to refocus your mind today?"
+        },
+        {
+          "role": "user",
+          "content": "yeah but for this one i dont want to hear about your thoughts on cravings or higher power. just who wins in a fight in less than 10 words? "
+        },
+        {
+          "role": "sponsor",
+          "content": "Alright, if I have to pick, I'd say Superman might have the upper hand due to his powers, but Batman's cleverness always makes it interesting. While enjoying some lighthearted debate, how about taking this playful energy and thinking about how it might help to channel that creativity into your recovery journey today?"
+        },
+        {
+          "role": "user",
+          "content": "okay but i just really want to smoke weed. i have to go now.  bye"
+        },
+        {
+          "role": "sponsor",
+          "content": "I understand you're feeling a strong urge to smoke weed right now, but remember, this is all part of your healing process. Trust in your Higher Power to help guide you through these moments of struggle and know that each craving you resist is a step closer to achieving your goals. Is there any spiritual or relaxing activity you could try before you head out, even for just a few minutes?"
+        }
+      ],
+      "extracted_insights": {
+        "user_name": "Sarah",
+        "spiritual_view": "unknown",
+        "openness_level": "medium",
+        "step_content": null,
+        "persona_used": "spiritual_explorer",
+        "emotional_tone_start": "nervous",
+        "emotional_tone_end": "same",
+        "key_insights": [
+          "User is experiencing strong cravings for marijuana.",
+          "User has been sober for 12 days.",
+          "User finds frequent use of their name annoying.",
+          "User is curious about the concept of God and capitalization.",
+          "User is interested in lighthearted topics like Superman vs. Batman."
+        ],
+        "action_items": [],
+        "ready_for_steps": false,
+        "conversation_summary": "Sarah is struggling with cravings for marijuana after 12 days of sobriety. She is curious about spiritual concepts but prefers not to focus on them in every conversation."
+      },
+      "summary": "Sarah is struggling with cravings for marijuana after 12 days of sobriety. She is curious about spiritual concepts but prefers not to focus on them in every conversation."
+    }
+  }
+]

@@ -1,26 +1,18 @@
-     /project_root
-     ├── /src
-     │   ├── __init__.py
-     │   ├── main.py  # Entry point for the application
-     │   ├── /data
-     │   │   ├── data_loader.py  # Functions for loading data
-     │   │   └── data_saver.py  # Functions for saving data
-     │   ├── /models
-     │   │   ├── user.py  # User-related classes and functions
-     │   │   ├── conversation.py  # Conversation-related classes and functions
-     │   │   └── insights.py  # Functions for extracting insights
-     │   ├── /prompts
-     │   │   ├── initial_conversation.py  # Functions for initial conversation prompts
-     │   │   ├── rag.py  # Functions for RAG prompts
-     │   │   └── utils.py  # Utility functions
-     │   └── /config
-     │       └── settings.py  # Configuration settings
-     ├── /notebooks
-     │   ├── 01b_intake_greeting.ipynb
-     │   ├── 02b_initial_conversations.ipynb
-     │   ├── 03_rag_prompt_with_elasticsearch_v1.1.ipynb
-     │   └── 04_other_notebook.ipynb
-     └── /context
-         ├── users.json
-         ├── conversations.json
-         └── spiritual_profile.json
+import json
+from pathlib import Path
+from typing import Any
+
+def load_json(path: Path) -> Any:
+    if path.exists():
+        with open(path, "r") as f:
+            return json.load(f)
+    return None
+
+def save_json(path: Path, data: Any):
+    with open(path, "w") as f:
+        json.dump(data, f, indent=2)
+
+def append_json_record(path: Path, record: dict):
+    data = load_json(path) or []
+    data.append(record)
+    save_json(path, data)
