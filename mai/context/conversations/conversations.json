@@ -906,5 +906,142 @@
       },
       "summary": "Sarah is struggling with cravings for marijuana after 12 days of sobriety. She is curious about spiritual concepts but prefers not to focus on them in every conversation."
     }
+  },
+  {
+    "conversation_id": "2624ba7e",
+    "user_id": null,
+    "date": "2025-07-02",
+    "timestamp": "2025-07-02T20:18:47.368154",
+    "step_content": null,
+    "persona_used": "steady_believer",
+    "conversation_type": "cravings_support",
+    "user_name": "Sarah",
+    "spiritual_view": "unknown",
+    "openness_level": "high",
+    "emotional_tone_start": "nervous",
+    "emotional_tone_end": "more_open",
+    "total_messages": 20,
+    "duration_minutes": 40,
+    "key_insights": [
+      "Sarah experiences strong cravings for marijuana.",
+      "She finds gratitude and spiritual practices helpful in managing cravings.",
+      "She is considering yoga as a form of self-care and spiritual practice."
+    ],
+    "action_items": [
+      "Do yoga with Adriene on YouTube",
+      "Order food in",
+      "Create a calming atmosphere at home",
+      "Pray after yoga when feeling calm"
+    ],
+    "ready_for_steps": false,
+    "follow_up_suggested": false,
+    "rag_sources_used": [],
+    "conversation_data": {
+      "dialogue": [
+        {
+          "role": "user",
+          "content": "i cant stop thinking about weed"
+        },
+        {
+          "role": "sponsor",
+          "content": "Hi Sarah, I understand how strong those cravings can feel, especially when they keep creeping into your thoughts. It's a tough battle when you're dealing with both the cravings and the feeling of being stuck. Remember, you\u2019re not alone, and talking to your Higher Power can be a source of strength right now. What are some spiritual practices or thoughts you find comforting when you feel overwhelmed?"
+        },
+        {
+          "role": "user",
+          "content": "its like im trying to do work, but all i think about is going to the cannabis store"
+        },
+        {
+          "role": "sponsor",
+          "content": "It's really challenging when those thoughts start coming back, especially when you're trying to focus on work and your goals. Remember, it's okay to acknowledge the craving and then gently redirect your attention to something that inspires or uplifts you. Maybe take a moment to connect with your Higher Power and ask for strength and clarity in this moment. How do you feel about finding a quiet space for a quick prayer or meditation to help refocus your mind?"
+        },
+        {
+          "role": "user",
+          "content": "well im trying to get work done and only have an hour till the end of the day. i dont think i have time to meditate"
+        },
+        {
+          "role": "sponsor",
+          "content": "I completely understand, Sarah. When time is tight, even small spiritual practices can make a difference. Perhaps you could try a quick gratitude moment where you jot down a couple of things you're thankful for to shift your focus and invite a calm mindset. What\u2019s one thing you\u2019re grateful for today that you can focus on as a strength?"
+        },
+        {
+          "role": "user",
+          "content": "im grateful that ive made it this far in the day without smoking marijuana"
+        },
+        {
+          "role": "sponsor",
+          "content": "That's wonderful to hear, Sarah, and recognizing your progress is a powerful step in your recovery journey. It's amazing how gratitude can shift our mindset and ground us amidst cravings. As you wrap up your day, what's one small spiritual or self-care action you might engage in to reinforce that sense of accomplishment and peace?"
+        },
+        {
+          "role": "user",
+          "content": "I could try to get to a yoga class tonight but im worried that its right beside the weed store and i might go in there instead. "
+        },
+        {
+          "role": "sponsor",
+          "content": "It's completely understandable to feel that temptation, Sarah. Perhaps considering a different route or class might offer both the chance for healthy exercise and a mental break without the added temptation. Remember, reaching out to your Higher Power for guidance can help fortify your resolve. How do you feel about finding an alternate activity or location that might help you feel secure and supported tonight?"
+        },
+        {
+          "role": "user",
+          "content": "there is one on the other side of town that I could go to.  its really far away. or i could just do yoga with adriene on youtube and order food in. "
+        },
+        {
+          "role": "sponsor",
+          "content": "Choosing to do yoga at home with Adriene and ordering food sounds like a cozy and mindful way to spend your evening, Sarah. This can be a nurturing practice, keeping you in a safe space without the added temptations, and allows you to enjoy some self-care. How do you feel about creating a special, calming corner at home for your yoga tonight, where you can also invite a moment of spiritual reflection to guide you through the practice?"
+        },
+        {
+          "role": "user",
+          "content": "i dont have a yoga mat at home"
+        },
+        {
+          "role": "sponsor",
+          "content": "No worries about the yoga mat, Sarah\u2014there are plenty of poses you can enjoy on a carpet or soft surface at home. The most important part is connecting with your intention for peace and mindfulness during practice. How about creating a calming atmosphere with some music or soft lighting to enhance your session?"
+        },
+        {
+          "role": "user",
+          "content": "yeah i could do that. "
+        },
+        {
+          "role": "sponsor",
+          "content": "That sounds like a great plan, Sarah. Creating a peaceful space for yoga and inviting a moment of spiritual reflection can truly nurture your spirit and help manage cravings. Remember, every small step counts in staying true to yourself and your recovery journey. What are you most looking forward to in this evening's practice, and how can you invite your Higher Power into that moment?"
+        },
+        {
+          "role": "user",
+          "content": "just being along with nothing to do.  I could pray after when i feel calmest"
+        },
+        {
+          "role": "sponsor",
+          "content": "It sounds like a peaceful ending to your day, Sarah, and praying when you feel calm can strengthen your connection to your Higher Power. Love and spirituality are seen as rewarding experiences, aiding your journey to heal and find hope. How do you plan to incorporate these feelings of love and spirituality into your evening prayer?"
+        },
+        {
+          "role": "user",
+          "content": "ok cool  by then im going to do that"
+        },
+        {
+          "role": "sponsor",
+          "content": "I'm really glad to hear you're planning on doing a calming, at-home yoga session, Sarah. It's a beautiful opportunity to connect with yourself and your Higher Power, bringing in moments of peace that can help shift your focus away from cravings. As you prepare for your evening, how might you incorporate feelings of love and spirituality into your practice to strengthen your resolve and nurture your soul?"
+        }
+      ],
+      "extracted_insights": {
+        "user_name": "Sarah",
+        "spiritual_view": "unknown",
+        "openness_level": "high",
+        "step_content": null,
+        "persona_used": "spiritual_explorer",
+        "emotional_tone_start": "nervous",
+        "emotional_tone_end": "more_open",
+        "key_insights": [
+          "Sarah experiences strong cravings for marijuana.",
+          "She finds gratitude and spiritual practices helpful in managing cravings.",
+          "She is considering yoga as a form of self-care and spiritual practice."
+        ],
+        "action_items": [
+          "Do yoga with Adriene on YouTube",
+          "Order food in",
+          "Create a calming atmosphere at home",
+          "Pray after yoga when feeling calm"
+        ],
+        "ready_for_steps": false,
+        "conversation_summary": "Sarah is struggling with cravings for marijuana but is open to using spiritual practices and yoga to manage them. She plans to do an at-home yoga session and pray afterward to find peace and strength."
+      },
+      "summary": "Sarah is struggling with cravings for marijuana but is open to using spiritual practices and yoga to manage them. She plans to do an at-home yoga session and pray afterward to find peace and strength."
+    }
   }
 ]

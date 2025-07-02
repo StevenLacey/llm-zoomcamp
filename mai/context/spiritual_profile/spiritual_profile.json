@@ -135,10 +135,10 @@
     "user_id": "00006",
     "current_profile": {
       "view": "christian",
-      "openness_level": "medium",
+      "openness_level": "high",
       "higher_power_defined": true,
       "persona": "steady_believer",
-      "updated_at": "2025-06-13T09:01:27.886615"
+      "updated_at": "2025-07-02T20:18:58.715103"
     },
     "history": [
       {
@@ -162,6 +162,14 @@
         "persona": "steady_believer",
         "updated_at": "2025-06-12T19:15:54.855237",
         "archived_at": "2025-06-13T09:01:27.886604"
+      },
+      {
+        "view": "christian",
+        "openness_level": "medium",
+        "higher_power_defined": true,
+        "persona": "steady_believer",
+        "updated_at": "2025-06-13T09:01:27.886615",
+        "archived_at": "2025-07-02T20:18:58.715093"
       }
     ]
   }
